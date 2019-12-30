@@ -1,6 +1,6 @@
-package dt.sqlclub.redis
+package tech.sqlclub.redis
 
-import dt.sqlclub.common.utils.ConfigUtils
+import tech.sqlclub.common.utils.ConfigUtils
 
 
 /**

@@ -1,4 +1,4 @@
-package dt.sqlclub.redis.constants
+package tech.sqlclub.redis.constants
 
 object Constants {
 
@@ -11,7 +11,7 @@ object Constants {
   val JEDIS_DATABASE = "database"
   val JEDIS_ADDRESSES = "addresses"
   val JEDIS_SENTINEL_MASTER = "sentinel.master"
-  val MSG_PIPER_DEFAULT_CLASS = "dt.sqlclub.redis.single.JedisMsgDeliver"
+  val MSG_PIPER_DEFAULT_CLASS = "tech.sqlclub.redis.single.JedisMsgDeliver"
   val MSG_MAXLENGTH = "msg.maxlength"
 
   /**
